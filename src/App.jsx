@@ -3,8 +3,8 @@ import {Routes, Route, Link } from 'react-router-dom';
 import '../src/App.css';
 import Home from './pages/Home';
 import Datascience from './pages/Datascience';
-import Cybersecurity from './pages/cybersecurity';
-import Career from './pages/career';
+import Cybersecurity from './pages/Cybersecurity';
+import Career from './pages/Career';
 import Fullstack from './pages/Fullstack';
 import logo from './assets/download.png'
 
