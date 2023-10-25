@@ -6,8 +6,6 @@ import Datascience from './pages/Datascience';
 import Cybersecurity from './pages/cybersecurity';
 import Career from './pages/career';
 import Fullstack from './pages/Fullstack';
-// import Navbar from './Components/Navbar';
-// import Header from './Components/Header';
 import logo from './assets/download.png'
 
 function App() {
